@@ -1,0 +1,2 @@
+development:
+  monitor_mode: false # if true no SQL logs and Request benchmark always Models: 0.000ms 
